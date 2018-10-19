@@ -2,6 +2,10 @@ __Lecture [slides](https://github.com/yandexdataschool/nlp_course/raw/master/res
 
 Seminar [colab url](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/master/week4_seq2seq/practice.ipynb).
 
+![](https://raw.githubusercontent.com/yandexdataschool/nlp_course/master/resources/vanilla_enc_dec.gif)
+
+![](https://raw.githubusercontent.com/yandexdataschool/nlp_course/master/resources/attention_mechanism.gif)
+
 ### Materials
 * Stanford lecture on seq2seq and MT - [video](https://www.youtube.com/watch?v=IxQtK2SjWWM)
 
@@ -13,6 +17,9 @@ Seminar [colab url](https://colab.research.google.com/github/yandexdataschool/nl
   * MSCOCO captioning [challenge](http://mscoco.org/dataset/#captions-challenge2015)
   * Captioning baseline [notebook](https://github.com/yandexdataschool/HSE_deeplearning/blob/master/week7/captioning_solution_ars.ipynb)
 * Lecture on attention mechanisms - [video](https://www.youtube.com/watch?v=_XRBlhzb31U) (RUSSIAN)
+
+### More on Transformer
+* Illustrated transformer [post](https://jalammar.github.io/illustrated-transformer/)
 
 ### Practice
 This time we're gonna use a shared `practice.ipynb` for both seminar and homework.
